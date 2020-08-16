@@ -1,5 +1,5 @@
 # jsonforgo
-json for go coures on stepik
+json for go course on stepik
 
 Положить файл в папку с проектом и добавить в main:
 
